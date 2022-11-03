@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emily-Nilsen
 - 👀 I’m interested in building Next.js websites and React Native mobile apps.
 - 🌱 I’m currently learning React Native and Swift.
-- 💞️ I’m looking to collaborate on any projects where I can contribute to the front-end of the Next.js or React Native application.
+- 💞️ I’m looking to collaborate on projects where I can contribute to the front end of the Next.js or React Native application.
 - 📫 You can reach me anytime at emily.jane.nilsen@gmail.com. I look forward to hearing from you!
 
 <!---
